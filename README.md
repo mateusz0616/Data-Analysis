@@ -77,3 +77,19 @@ This repository contains projects related to data processing, analysis, and visu
       - Behavioral Trends: Identify the most engaged user groups and peak activity times.
       - Engagement Patterns: Analyze how users interact with content (likes, shares, comments).
 
+4. 📂 Folder `UK Train Analysis`
+   * This folder is 1 part of the complete 'UK Train' project.There are 3 files: `Customer`, `Tikcets`, `Train`.For each file I have done cleanup and prep, EDA and basic visualization in (matplotlib, seaborn, plotly).There is a Readme file in the repository that describes things better.
+  
+5. 🧪 Data Analysis on Glassdoor Job.
+   * 🗒️ Name of Project: `Project_EDA.ipynb`
+   * 🎯 Project Goals: **The primary goal of this project is to clean, analyze, and visualize the data to uncover insights and patterns related to job postings on Glassdoor.**
+   * 🛠️ Technologies used: **Pandas, NumPy, Matplotlib,  Regular Expressions****
+   * 🪜 Key Steps in the Project:
+       - Data Loading and Initial Inspection.
+       - Data Cleaning
+       - Handling Missing Values.
+       - Statistical Summary.
+       - Visualization.
+       - Data Analysis.
+ 
+
